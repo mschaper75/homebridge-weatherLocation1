@@ -5,7 +5,7 @@ A homebridge temperature sensor for displaying the weather (and optional the hum
 
 # Cloned from David Werth to support multiple Locations
 
-<a href="https://github.com/werthdavid/homebridge-weather</a>
+<a href="https://github.com/werthdavid/homebridge-weather">github.com/werthdavid/homebridge-weather</a>
 
 # Installation
 
