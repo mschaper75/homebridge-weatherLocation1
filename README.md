@@ -1,0 +1,1 @@
+# homebridge-weatherLocation1
