@@ -1,0 +1,31 @@
+{
+  "name": "homebridge-weatherLocation1“,
+  "version": "1.2.0",
+  "description": "A homebridge temperature sensor for displaying the weather at your current location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mschaper75/homebridge-weatherLocation1.git"
+  },
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=4.2.0"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "weather",
+    "openweathermap"
+  ],
+  "author": „Matthias Schaper <getdichgarnichtsan@me.com>“,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mschaper75/homebridge-weatherLocation1/issues"
+  },
+  "homepage": "https://github.com/mschaper75/homebridge-weatherLocation1#readme",
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
